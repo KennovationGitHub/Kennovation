@@ -1,3 +1,3 @@
 # Kennovation
 Test Repository
-Test Commit,
+Test Commit.
